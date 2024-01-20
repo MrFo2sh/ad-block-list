@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 !-----------------General tracking systems-----------------!
-domain=ideal-secured.com
-domain=wigsynthesis.com
-domain=fadingmummytuxedo.com
-domain=luckyforbet.com
-domain=melbet.com
+ideal-secured.com/*
+wigsynthesis.com/*
+fadingmummytuxedo.com/*
+luckyforbet./*
+melbet.com/*

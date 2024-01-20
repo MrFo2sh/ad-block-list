@@ -2,3 +2,6 @@
 !-----------------General tracking systems-----------------!
 domain=ideal-secured.com
 domain=wigsynthesis.com
+domain=fadingmummytuxedo.com
+domain=luckyforbet.com
+domain=melbet.com
